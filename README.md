@@ -1,7 +1,5 @@
 # Welcome to the Josh Zone
 
-<br />
-
 Thank you for visiting my page! My name is Joshua and I am an aspiring game designer, animator and 3D artist. I am currently in school at Old Dominion University, originally majoring in Graphic Design before switching to the interdisciplinary Game Design and Studies. Nowadays, I use both of these skills to contribute to the art form contained in video games, creating 3D assets and UI elements to give software a touch of my personality. 
 
 ## Current Projects

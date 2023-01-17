@@ -8,8 +8,6 @@ Thank you for visiting my page! My name is Joshua and I am an aspiring game desi
 An adventure with high T! Play the demo now!
 https://jralph64.itch.io/super-high-t-world-alpha
 
-<br />
-
 ### Space Jelly:
 Created in Unity for the ODU Mars Fest Game Jam 2022. Control an ill-prepared astronaut and survive 5 waves of jelly-like enemies on a deserted planet!
 <br />
